@@ -1,0 +1,415 @@
+We will give you money. Fantastic. I will open up my AI calendar or my AI application
+and I will simply tell it in very simple terms. There is an application due with the city of
+Costa Brava in Portugal on the 27th of November. I would like you to remind me two weeks in advance
+to send my proposal to my suppliers, ensure that the costs are all okay, and one week in advance
+set a reminder to discuss with my team our proposal. And like magic, AI creates all of those
+meeting requests, all of the calendar information, everything. And it's more like an
+intelligent assistant. So if I can transfer that now maybe to a city application,
+we are from Dublin. Our company will install a lot of the traffic signals and coordinated controls.
+We believe in the future at some point, AI will be introduced in such a way that we can tell us
+on Saturdays, our biggest football team, Dublin, play at the major stadium.
+Here is a list of all the fixtures and all of the times the matches will take place.
+We know we can coordinate with the traffic signals because it's an adaptive traffic control system.
+I'm sure something you are all familiar with. It uses already a primitive form of AI to detect
+traffic jams and change the light sequences. But what if we were able to use AI to tell us
+for half an hour or an hour before the match, give all the routes towards the stadium,
+extended green time access, and after the match, if the team win, change all the lights to blue.
+No, I'm joking. We won't do that. But there are so many ways we could,
+but we can't use it. Our company was started about 20 years ago. Traditionally was a maintenance
+company, but we decided we wanted to be the best smart cities provider in Ireland.
+So we established two sub companies within ours, which is for software development and traffic
+installations. That means we have our own team on the ground, able to install lights, sensors,
+any type of application, and our own software engineers,
+to create all of the AI, the backend, and the machine learning that's required to provide the
+best AI for Dublin. One of our most interesting pilot projects at the moment is done in
+coordination with partners in the UK and around. And it's a huge problem in cities where you have
+tram intersections with vehicles. A vehicle approaches a red light at high speed, and you
+know instantly they are not going to be able to brake in time.
+So we decided to make the red light. Nine times out of 10, the driver carries through the red light
+and crashes straight into the tram. This can cause problems, obviously, for losing a public transport
+vehicle for a certain amount of time while it's under repair, and then also the devastation it'll
+cause the passengers and the cars. Our pilot program at the moment, instead of trying to stop
+the car, it can read the speed of the approaching vehicle, make an assisted, educated decision that
+this car will not stop in time for the red light, and instead it will stop the tram. It'll remove any
+possibility for the public vehicle to cross the path of the speeding car. Now if we were to try
+and introduce that based on people, it would be impossible. You would need one person per
+intersection 24 hours a day to watch it. However, one AI system could watch over every single
+junction that has a sensor that is monitoring all this data.
+Which brings me to my real point. The ability for us to introduce AI and systems like this in
+the future comes down to sensors. It comes down to the quality of the data that we are able to
+collect in real time and bring on our cities. Really, we know AI won't really impact our lives.
+We have a lovely saying in Ireland and Europe that a society grows stronger when its residents
+plant trees whose shade they know they will never sit in. And this is what it's about. It is our
+job to make sure that we have the data that we need to make sure that we have the data that we
+need to put in the sensors so that the next generation can create life-changing AI applications.
+We have made a small sensor for one of my most favourite projects that we have at the moment.
+There's a lot of drownings in Ireland and it's unfortunate because we are surrounded
+by so much water. And the lunch boys that are used to save someone who is drowning
+regularly go missing, being stag dudes, being people using them. At the moment they are not
+intelligent devices. A ring boy is lifted, it is thrown in the water to save someone and it is gone.
+We developed a small sensor that sits at the bottom of the ring boy housing. It tells the
+council when there is a life boy sensor present, but more importantly when there is not.
+This then triggers the council to go out and replace the life boy.
+They are not at a great cost, but what happens is it saves a life by ensuring there is
+constantly a ring boy at the location a person needs there to be. But as we start to introduce
+AI in the future, and again with our partners in the UK we are discovering this, if we develop that
+sensor to a point where we know that it is being used or it can prove that the ring boy is being
+used in an emergency situation and someone's life is in danger, that exact same trigger can be used
+to send out drones to find where the person is in the water. It can be used to find where the person is in the water.
+I give an exact GPS location. If the drone then confirms someone is drowning, it can trigger the
+emergency response to the location to make sure that person is saved in time at the exact location
+where they are in peril. It's a fantastic opportunity to utilize all of the technologies
+that are available to us and we are very excited to keep developing this sensor and more.
+If you are interested, we will be doing a demonstration
+of this full system. Neil might have to tell me the exact location. It's the Smart Dublin stand
+at three o'clock today. We have designed all of the software, all of the hardware,
+and currently there are 600 of these sensors installed around Ireland at the moment.
+I don't have a huge amount of time left, but I would like to thank
+you for your participation and listening as cleanly as you have. As I said, Neil and I will
+be on the Smart Dublin stand for most of the day. We can take you through all of our other
+applications of AI that we are using, but we firmly believe that this is the future
+of smart cities and the sooner we can start to see it as an assisted intelligence instead
+of an artificial intelligence, the better all of our cities and public spaces will be.
+Thank you for your time. Welcome any questions.
+Give it up to Gengover, everyone.
+All right. Well, thank you very much for this very interesting presentation and how we are putting
+safety of our users first. Now, we still have maybe just about five minutes in case anybody
+would want to ask a question. We have the microphone here in the front, so don't be shy.
+Come over and ask a question.
+It's always hard to speak the first. Nobody wants to speak at the start.
+Who wants to break the ice?
+Anyone? Then Ken, in the meantime, because we discussed that
+before, the other day in our call. How much do you use AI in your day-to-day life? How many
+times do you use it per day?
+No, I do. I use it a lot. I gave the example at the start of using it to control my calendar,
+using it as an assistant to set reminders. I'm an assistant to a standard system, which I'm an
+extremely forgetful i'm sure some of you are fantastic at making notes at conferences and
+putting them into your calendar and all that but it is almost impossible for me i tend to
+months after the event find a scrambled up piece of paper at the bottom of my bag and go oh they
+were the notes i took on the day whereas now with ai technologies and it's as simple as the
+microsoft applications yesterday microsoft were on stage with open ai talking about their
+partnership they had their developer conference and most of the applications for ai are already
+in your computer it's not something you have to download or sign up to chat gbt for turbo
+even microsoft to do has so many applications where you can just speak to it in a conversational
+tone and suddenly before you know it all of these triggers are set that can assist your day for
+reminders for uh yes yes setting setting uh
+tasks to do that you're most likely to forget so as a forgetful person that i am i should be
+anyone wanting to ask a question to uh to ken
+all right then i think people have noted down uh your 3 p.m
+demonstrations so make sure to check it at the smart
+stand excellent thank you guys thank you so much
+all right so now we are moving to the
+second one of our solution talks of this session this one coming from a little bit closer to to our
+home these days and i'm delighted to introduce actually one of the partners of eit uh tomorrow
+mobility event uh i'm talking about the planification manager at moventis nuria
+gluminas
+welcome
+thank you
+uh good morning uh first of all thank you very much for inviting us to this session
+we're very proud to be here for those who don't know moventis moventis is moventia's business unit
+dedicated to collective mobility this division brings together all the companies of the group
+that develop their business through the transfer of passengers in buses in coaches
+streetcars or other mortals transports like public rental bicycles or carpooling
+moventis is focused on providing innovative solutions that contribute to get sustainable connected and safe mobility for all users
+in 2017 moventis started to collaborate with the technological platform shuttle
+in 2017 moventis started to collaborate with the technological platform shuttle
+to implement a transport on demand line in the city of san cuvada
+to implement a transport on demand line in the city of san cuvada
+nowadays we are operating three transport and demand lines in this city
+with shuttle's solution for the user this solution consists in an application
+the user when wants to take a trip he makes the request through the application and it tells him
+when the bus is going to pick him up i'll try to explain very briefly how artificial
+i'll try to explain very briefly how artificial
+intelligence has improved this platform
+to create artificial intelligence we need algorithms and data
+on the transport on demand case the algorithm must solve a problem called the dial or right problem
+in this problem we have n requests k vehicles and some constraints like the capacity of the
+vehicles or the hours of operation and the goal is to optimize the service
+i i i don't think you can hope to get the correct answer
+i i don't think you can hope to get the correct answer
+it can be a little bit subjective depending on the operation
+what does it mean optimizing the service well it can be a little bit subjective
+depending on the operation to solve the problem we will use a realistic algorithm
+and with these algorithms maybe we won't get an exact solution but we can get a
+solution solution that it's pretty close to the exact one and the computational time is less than
+algorithm that is an algorithm from 1959 if we have a lot of requests at the same
+time with this algorithm that is very efficient we could take too long too
+long to solve the problem that's why shuttle technicians decided to explore
+other routing algorithms that would fit in the problem to compare the different
+algorithms they studied the computational time required to solve the
+problem and the efficiency respect the extra algorithm today the platform works with
+four algorithms working in parallel and a timeout if the best algorithm gets a
+solution before timeout the application will show these results but if the best
+algorithm cannot get a solution before timeout then it will pass to the second
+and so on to the fourth. another AI technique applied in shuttle is
+clustering. when we talk about clustering we thought about grouping data in
+clusters or groups trying to find characteristics that we wouldn't find
+with our techniques. for example, shuttle has historical data of real trips where
+they asked the users to score the satisfaction of the trip
+The users have to score the global satisfaction, the waiting time satisfaction and the satisfaction
+respect the delay.
+When we say delay we mean the difference between the real drop of time and the expected drop
+of time.
+During this clustering we can see if each point is a trip, that there are three main
+groups of trips.
+The blue ones would be those where the user is more satisfied.
+With the clustering we can find trip profiles and user profiles and this will help to personalize
+the algorithm for each operation.
+Because it's not the same taking the bus on a Monday when you have to go to work and you
+need to be there at some hour or taking the bus on a Saturday afternoon when everything
+is more relaxed.
+So, that's it.
+Another artificial intelligence technique applied is machine learning.
+With all the historical data they train the machine so the machine can do predictions
+on the demand.
+With these predictions then the algorithm recalculates the time and gives a new expected
+time that is more accurate than the first one.
+So, if we come back to the day to day of Moventis we can see that the demand has been increasing.
+So, we can say that artificial intelligence is now a reality in the transport sector.
+With artificial intelligence we can provide a better service so we have happier users.
+Thank you very much.
+Thank you very much Nuria for this interesting presentation and this interesting example
+actually pretty close from over here.
+We still have a little bit of time for some questions.
+If anybody would like to ask a question about Nuria's presentation?
+Let me see.
+Over here.
+There is a microphone over there if you want to get this.
+Thanks for breaking the ice.
+Hi.
+Hi.
+I am from the Netherlands.
+I am not really familiar with the on demand services like you are explaining.
+So, how does that work if there are no passengers, there are no buses?
+So, I have a question.
+I am from the Netherlands.
+I am not familiar with the on demand services like you are explaining.
+So, how does that work?
+So, there are no passengers.
+Just on the practical side.
+If there are no passengers the bus is stopped and it is not running.
+That's all.
+Is there a minimum of people that have to make a demand?
+The service is planned so the driver is prepared to do the service.
+We have the driver, we have the bus and if there is no passenger the driver is like this.
+Okay, perfect.
+Thank you.
+Thank you very much for the question.
+Thanks for another question.
+There is another one over here.
+Hi everyone.
+Thank you very much for the presentation.
+So, my question is about when does it make sense to implement demand transport and what
+kind of situation, what kind of values within the city or the rural realm and also how to
+deploy a system from the beginning.
+Thank you.
+Well, usually we implement this kind of lines.
+So, what do we do?
+kind of lines in cities places with a low density where having a regular line
+would be not efficient if I'm having passengers that in peak hour we know
+that we can give the service with the demand bus
+thank you any final question please I can come on to the microphone thank you
+in the idea is that and if anybody would want to ask questions to stand on the
+line
+how much did you learn from other cities who tried similar approaches I know
+Helsinki has something like this like maybe ten years ago
+so how is this different or maybe just time you've changed so it's a better
+situation now than it was before well probably all these platforms are yet
+they were pretty similar way some years ago maybe 50 years ago we started trying
+this kind of services with the typical series that the user had to call the day
+before and had to say hey tomorrow I need the service now with all the
+technology we can do it through this application and probably all the
+people that is dedicated to study of this kind of algorithms are in contact with one
+with other ones and they learn from one from one operation from from others
+maybe since we still have one minute let's do it
+I do have a final question
+of the respect of the users because
+anytime we encounter a new application a new app or new technology it's not always
+easy to get people to use it yes how difficult or how easy maybe was it
+for you for the users in Sankoogat to adopt the the usage of the shuttle
+well we have the application and then there is a form for people that is not used to this kind of technology
+at the beginning the percentage of people that was
+requesting the service for the phone was around maybe 50%.
+Nowadays, the percentage is around 8%.
+So, every time we have more people using the application,
+less people have to use it.
+Very good. And then there's also people of certain ages
+that don't necessarily understand the phone, but they can still call.
+They can call, they can. Really interesting.
+All right, Nuria, so thank you very much for being with us for the presentation
+and for taking the time to answer our questions.
+Thank you very much.
+All right, so we saw two case studies, two examples,
+on how different AI applications are being used in Dublin and in Barcelona.
+Now it's time to discuss in more detail the innovations,
+the implications, the policies needed, everything around
+what do we do?
+In terms of data and all other matters.
+So stay tuned because in just a minute we're starting the panel discussion.
+All right, and welcome back, everyone.
+That was a short, that was a very short break.
+Well, as mentioned, we're starting the second part of our session,
+so welcome everyone who is joining us just now.
+After these two examples that we've been seeing on the case of
+different artificial intelligence usage in urban mobility,
+we're going to be diving deep on many topics, I think, from the perspective of
+mobility providers to public entities to how cities can better cooperate with innovators.
+So I would like to invite my panelists to join me here on stage.
+I will introduce them in just a second.
+I guess you can stay here.
+Excellent.
+So thank you very much to all of you for having joined this panel discussion.
+I think we have a great speaker lineup and I'm very excited to discuss in more detail
+such a fascinating topic.
+I mean, we have a cool room just in front of us.
+Just next to me, I'm delighted to introduce the mobility innovation expert
+coming all the way from London and the former head of innovation at Transport for London,
+Mr. Rikesh Shah.
+Thanks for being with us.
+Also with us is Anne Irefusta Barrena.
+She's a technology director for industry and mobility at Technalia.
+Thank you for being with us.
+On my other side, I'm delighted to introduce from the Frank Hofer Institute for Industrial Engineering,
+Marco Amorim.
+Hi.
+Hi.
+So with us is the CTO and Assistant City Manager at the City of Pinched Tree Corners in the
+U.S., Brandon Branham.
+So I would like to start with you, Rikesh Shah.
+When we talk about such a global metropolis, such a global city like London, what are the
+opportunities that AEI has brought for its mobility network?
+What can you tell us about that?
+Thank you.
+Can you hear me okay?
+Yeah.
+So I think the role of AEI is a new thing.
+You know, AEI has been around a long time, since the 1950s.
+And I just go to what Ken said earlier, it's really relevant, is when I wake up in the
+morning, I might check my diary or I might then check the news, which is based on what
+I want to read.
+I might then do my journey planning.
+So if I do my journey planning, people like TFL are releasing the data.
+We release hundreds of data sets.
+There are over 700 apps in London that are powered by TFL data.
+And that's based on the data that we have.
+So if I do my journey planning, people like TFL are releasing the data.
+We release hundreds of data sets.
+There are over 700 apps in London that are powered by TFL data.
+And that's based on the data that we have.
+And that's based on my preference, 42% of Londoners use an app that's relevant to them.
+So that's a form of AI.
+Then if I get onto the road, the traffic's optimized.
+The traffic's optimized based on the traffic lights and how you work.
+The city wants to control the traffic.
+So what can I do?
+Then there might be a road safety element.
+So it could be a case of what data is coming out of the cars, what data is coming out of
+the vehicles.
+So actually the opportunities have been there for a long time.
+And the opportunities will continue to be there going forward.
+I think where we need to be clear is what are the problems that we're trying to solve
+for our cities in the short, medium and long term.
+And then what outcomes do you want?
+And if we don't get that right, it just becomes a technology thing.
+So we've got to contextualise everything really well, which I'm sure we're doing well today.
+Contextualising, indeed.
+And I think already we've got some hints on really how do we put the needs of our passengers,
+of our users first.
+And we're going to be getting back to it very shortly, indeed.
+Then I'd like to turn to Brandon Brown.
+So the city of page three corners, it would be great if first of all, you can also put
+us on the map.
+I think that no one better to introduce us than you.
+And how is it implementing AI in a smart city?
+Thank you for those in the room.
+We are just north of Atlanta, so 20 minutes from downtown Atlanta.
+We like to say Atlanta is a suburb of Peachtree Corners.
+But what we're seeing, obviously, in the metropolitan area, and Kim hit it on earlier, is traffic
+is a major concern.
+As we all know, the US is very car centric.
+So how do we take use of the infrastructure to start to improve that?
+We have a corridor that cuts through the heart of our city that carries 60,000 cars a day.
+Right through the middle of our downtown area.
+And so we're starting to do those things in traffic using the sensor sets that are on
+there.
+But then we decided to introduce an autonomous shuttle.
+So how does that start to interact with the infrastructure?
+So we use the AI sets that are on the sensor stack in the shuttle to communicate with our
+infrastructure.
+So we start to do preemption of traffic signals through that, and trying to find ways, because
+in the US, public transportation is a major concern.
+So how do we start to make it a viable option using AI in transportation and transportation
+infrastructure?
+Because I think how we're going to get there and the stuff that we're starting to do in
+district orders.
+So thank you.
+Thank you very much.
+I think, yeah, it's very, very interesting to see how different cities are implementing
+solutions from all over the world.
+So I would like then to turn to our next speaker, Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena.
+Anaida Fustavarena.
+Anaida Fustavarena.
+Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena of Tecnalia.
+Anaida Fustavarena of Tecnalia.
+What are the AI solutions that you are looking into specifically and what do you think is
+needed to scale them up?
+Okay, thank you, Ana.
+Thank you to Tomorrow Mobility for inviting us, Tecnalia, to reply to this relevant question
+about upscaling solutions, AI solutions.
+So we have seen two nice solutions in the first part of this session.
+Well, I would first of all say that most AI developments remain as a proof of concept.
+So it's difficult, they are tested offline,
+and it's difficult to really have the whole life cycle for widespread errors
+and for giving the necessary time to this whole life cycle
+to really find or validate the solution.
+So this life cycle needs to take into account ML, machine learning operations,
+data operations, AI operations.
+And so I think this is one of the most relevant aspects
+that we need to take into account for upscaling AI solutions.
+Then I think AI-based solutions must incorporate adequate management of the expectations
+and the expectations of the AI.
+So the steps must be incremental,
+and an incremental roadmap, realistic, taking into account quick wins, must be applied.
+Then access to skills, access to talent,
+this is also something we need and it's relevant for the upscaling.
+And the acceptance by professionals of a human-centered AI approach,
+perhaps in the two nice solutions,
+and one of the most important ones,
+and at least that this is relevant and needs to take into account.
+And then another clear aspect is the regulatory framework.
+So this can be agreed at a global level.
+These steps are taken to regulate the AI.
+We have this sandbox on AI, the AI Act,
+that will be defined and validated in two years' time.
+So all of these steps are taken to regulate the AI.
+So all this is needed, and I think these are, I would say, the most relevant aspects we need to take into account for the upscaling of AI solutions to the market.
+Very interesting. You've put some important ingredients on the table. I've noted down the expectations, being realistic.
+The access to skills and talent, when you were saying that, the room next to us was applauding.
+So I think it probably resonated even in the other side of the room as well.
+So these are all, I think, important questions that we will also take in the panel, indeed.
+And then, last but not least, before I move, I open the debate, I would like to turn to Marco to tell us,
+because you've been doing extensive research on how users perceive artificial intelligence.
+So how would you assess it generally? The average user would perceive solutions of AI mobility.
+What are their preferences?
+What are the, I don't know, uncertainties or fears? What can you tell us?
+Yeah, that's a good question, and quite a complex one, but so I will just point three main points that I think are quite interesting ones.
+So the first one is habits.
+So as humans, we are people of habits, so we like to stick to what we know, the way we do things.
+So usually we don't like to go out of our comfort zone, and we have some studies, for example, that shows that cities,
+where there have been pilots for automated vehicles, shuttles, or normal vehicles,
+people usually are more willing to accept those technologies in the future.
+So this is something that can prove this fact of the habits.
+The next part is trust.
+So we need to trust these new technologies or new service.
+And for that, there is always a question.
+Is this service reliable?
+I mean, I never used it.
+Will it work?
+Will it not work?
+And for example, there.

@@ -1,0 +1,1660 @@
+1
+00:00:00,000 --> 00:00:08,320
+We will give you money. Fantastic. I will open up my AI calendar or my AI application
+
+2
+00:00:08,320 --> 00:00:16,120
+and I will simply tell it in very simple terms. There is an application due with the city of
+
+3
+00:00:16,120 --> 00:00:24,040
+Costa Brava in Portugal on the 27th of November. I would like you to remind me two weeks in advance
+
+4
+00:00:24,040 --> 00:00:30,700
+to send my proposal to my suppliers, ensure that the costs are all okay, and one week in advance
+
+5
+00:00:30,700 --> 00:00:39,200
+set a reminder to discuss with my team our proposal. And like magic, AI creates all of those
+
+6
+00:00:39,200 --> 00:00:47,900
+meeting requests, all of the calendar information, everything. And it's more like an
+
+7
+00:00:47,900 --> 00:00:53,680
+intelligent assistant. So if I can transfer that now maybe to a city application,
+
+8
+00:00:54,040 --> 00:00:59,820
+we are from Dublin. Our company will install a lot of the traffic signals and coordinated controls.
+
+9
+00:01:00,400 --> 00:01:06,500
+We believe in the future at some point, AI will be introduced in such a way that we can tell us
+
+10
+00:01:06,500 --> 00:01:12,520
+on Saturdays, our biggest football team, Dublin, play at the major stadium.
+
+11
+00:01:13,620 --> 00:01:18,300
+Here is a list of all the fixtures and all of the times the matches will take place.
+
+12
+00:01:18,900 --> 00:01:24,020
+We know we can coordinate with the traffic signals because it's an adaptive traffic control system.
+
+13
+00:01:24,040 --> 00:01:29,940
+I'm sure something you are all familiar with. It uses already a primitive form of AI to detect
+
+14
+00:01:29,940 --> 00:01:35,540
+traffic jams and change the light sequences. But what if we were able to use AI to tell us
+
+15
+00:01:35,540 --> 00:01:42,240
+for half an hour or an hour before the match, give all the routes towards the stadium,
+
+16
+00:01:42,580 --> 00:01:49,140
+extended green time access, and after the match, if the team win, change all the lights to blue.
+
+17
+00:01:49,260 --> 00:01:53,860
+No, I'm joking. We won't do that. But there are so many ways we could,
+
+18
+00:01:54,040 --> 00:02:00,660
+but we can't use it. Our company was started about 20 years ago. Traditionally was a maintenance
+
+19
+00:02:00,660 --> 00:02:05,620
+company, but we decided we wanted to be the best smart cities provider in Ireland.
+
+20
+00:02:06,020 --> 00:02:12,800
+So we established two sub companies within ours, which is for software development and traffic
+
+21
+00:02:12,800 --> 00:02:19,560
+installations. That means we have our own team on the ground, able to install lights, sensors,
+
+22
+00:02:19,560 --> 00:02:23,940
+any type of application, and our own software engineers,
+
+23
+00:02:24,040 --> 00:02:30,100
+to create all of the AI, the backend, and the machine learning that's required to provide the
+
+24
+00:02:30,100 --> 00:02:37,700
+best AI for Dublin. One of our most interesting pilot projects at the moment is done in
+
+25
+00:02:37,700 --> 00:02:43,580
+coordination with partners in the UK and around. And it's a huge problem in cities where you have
+
+26
+00:02:43,580 --> 00:02:50,580
+tram intersections with vehicles. A vehicle approaches a red light at high speed, and you
+
+27
+00:02:50,580 --> 00:02:53,900
+know instantly they are not going to be able to brake in time.
+
+28
+00:02:54,040 --> 00:02:58,840
+So we decided to make the red light. Nine times out of 10, the driver carries through the red light
+
+29
+00:02:58,840 --> 00:03:05,080
+and crashes straight into the tram. This can cause problems, obviously, for losing a public transport
+
+30
+00:03:05,080 --> 00:03:09,880
+vehicle for a certain amount of time while it's under repair, and then also the devastation it'll
+
+31
+00:03:09,880 --> 00:03:16,120
+cause the passengers and the cars. Our pilot program at the moment, instead of trying to stop
+
+32
+00:03:16,120 --> 00:03:23,980
+the car, it can read the speed of the approaching vehicle, make an assisted, educated decision that
+
+33
+00:03:23,980 --> 00:03:31,980
+this car will not stop in time for the red light, and instead it will stop the tram. It'll remove any
+
+34
+00:03:31,980 --> 00:03:38,060
+possibility for the public vehicle to cross the path of the speeding car. Now if we were to try
+
+35
+00:03:38,060 --> 00:03:43,340
+and introduce that based on people, it would be impossible. You would need one person per
+
+36
+00:03:43,340 --> 00:03:49,580
+intersection 24 hours a day to watch it. However, one AI system could watch over every single
+
+37
+00:03:49,580 --> 00:03:53,500
+junction that has a sensor that is monitoring all this data.
+
+38
+00:03:53,980 --> 00:03:59,980
+Which brings me to my real point. The ability for us to introduce AI and systems like this in
+
+39
+00:03:59,980 --> 00:04:05,520
+the future comes down to sensors. It comes down to the quality of the data that we are able to
+
+40
+00:04:05,520 --> 00:04:12,340
+collect in real time and bring on our cities. Really, we know AI won't really impact our lives.
+
+41
+00:04:12,540 --> 00:04:18,160
+We have a lovely saying in Ireland and Europe that a society grows stronger when its residents
+
+42
+00:04:18,160 --> 00:04:23,660
+plant trees whose shade they know they will never sit in. And this is what it's about. It is our
+
+43
+00:04:23,660 --> 00:04:23,960
+job to make sure that we have the data that we need to make sure that we have the data that we
+
+44
+00:04:23,960 --> 00:04:30,440
+need to put in the sensors so that the next generation can create life-changing AI applications.
+
+45
+00:04:31,480 --> 00:04:37,480
+We have made a small sensor for one of my most favourite projects that we have at the moment.
+
+46
+00:04:38,600 --> 00:04:42,760
+There's a lot of drownings in Ireland and it's unfortunate because we are surrounded
+
+47
+00:04:42,760 --> 00:04:48,440
+by so much water. And the lunch boys that are used to save someone who is drowning
+
+48
+00:04:48,440 --> 00:04:53,640
+regularly go missing, being stag dudes, being people using them. At the moment they are not
+
+49
+00:04:53,640 --> 00:04:59,320
+intelligent devices. A ring boy is lifted, it is thrown in the water to save someone and it is gone.
+
+50
+00:05:00,040 --> 00:05:06,600
+We developed a small sensor that sits at the bottom of the ring boy housing. It tells the
+
+51
+00:05:06,600 --> 00:05:11,800
+council when there is a life boy sensor present, but more importantly when there is not.
+
+52
+00:05:13,080 --> 00:05:17,640
+This then triggers the council to go out and replace the life boy.
+
+53
+00:05:17,640 --> 00:05:23,320
+They are not at a great cost, but what happens is it saves a life by ensuring there is
+
+54
+00:05:23,320 --> 00:05:29,640
+constantly a ring boy at the location a person needs there to be. But as we start to introduce
+
+55
+00:05:29,640 --> 00:05:35,400
+AI in the future, and again with our partners in the UK we are discovering this, if we develop that
+
+56
+00:05:35,400 --> 00:05:41,560
+sensor to a point where we know that it is being used or it can prove that the ring boy is being
+
+57
+00:05:41,560 --> 00:05:48,840
+used in an emergency situation and someone's life is in danger, that exact same trigger can be used
+
+58
+00:05:48,840 --> 00:05:53,240
+to send out drones to find where the person is in the water. It can be used to find where the person is in the water.
+
+59
+00:05:53,720 --> 00:06:00,280
+I give an exact GPS location. If the drone then confirms someone is drowning, it can trigger the
+
+60
+00:06:00,280 --> 00:06:06,920
+emergency response to the location to make sure that person is saved in time at the exact location
+
+61
+00:06:06,920 --> 00:06:14,360
+where they are in peril. It's a fantastic opportunity to utilize all of the technologies
+
+62
+00:06:14,360 --> 00:06:19,640
+that are available to us and we are very excited to keep developing this sensor and more.
+
+63
+00:06:20,280 --> 00:06:23,160
+If you are interested, we will be doing a demonstration
+
+64
+00:06:23,320 --> 00:06:31,720
+of this full system. Neil might have to tell me the exact location. It's the Smart Dublin stand
+
+65
+00:06:31,720 --> 00:06:37,560
+at three o'clock today. We have designed all of the software, all of the hardware,
+
+66
+00:06:37,560 --> 00:06:42,440
+and currently there are 600 of these sensors installed around Ireland at the moment.
+
+67
+00:06:49,720 --> 00:06:53,240
+I don't have a huge amount of time left, but I would like to thank
+
+68
+00:06:53,320 --> 00:06:59,640
+you for your participation and listening as cleanly as you have. As I said, Neil and I will
+
+69
+00:06:59,640 --> 00:07:04,600
+be on the Smart Dublin stand for most of the day. We can take you through all of our other
+
+70
+00:07:05,160 --> 00:07:11,240
+applications of AI that we are using, but we firmly believe that this is the future
+
+71
+00:07:11,240 --> 00:07:18,120
+of smart cities and the sooner we can start to see it as an assisted intelligence instead
+
+72
+00:07:18,120 --> 00:07:22,680
+of an artificial intelligence, the better all of our cities and public spaces will be.
+
+73
+00:07:23,320 --> 00:07:25,560
+Thank you for your time. Welcome any questions.
+
+74
+00:07:29,320 --> 00:07:30,760
+Give it up to Gengover, everyone.
+
+75
+00:07:32,520 --> 00:07:38,040
+All right. Well, thank you very much for this very interesting presentation and how we are putting
+
+76
+00:07:38,040 --> 00:07:45,640
+safety of our users first. Now, we still have maybe just about five minutes in case anybody
+
+77
+00:07:45,640 --> 00:07:51,880
+would want to ask a question. We have the microphone here in the front, so don't be shy.
+
+78
+00:07:51,880 --> 00:07:53,000
+Come over and ask a question.
+
+79
+00:07:54,200 --> 00:07:57,320
+It's always hard to speak the first. Nobody wants to speak at the start.
+
+80
+00:07:57,320 --> 00:07:58,520
+Who wants to break the ice?
+
+81
+00:08:01,320 --> 00:08:05,480
+Anyone? Then Ken, in the meantime, because we discussed that
+
+82
+00:08:06,360 --> 00:08:12,440
+before, the other day in our call. How much do you use AI in your day-to-day life? How many
+
+83
+00:08:12,440 --> 00:08:13,320
+times do you use it per day?
+
+84
+00:08:14,920 --> 00:08:20,280
+No, I do. I use it a lot. I gave the example at the start of using it to control my calendar,
+
+85
+00:08:20,280 --> 00:08:23,320
+using it as an assistant to set reminders. I'm an assistant to a standard system, which I'm an
+
+86
+00:08:23,320 --> 00:08:28,920
+extremely forgetful i'm sure some of you are fantastic at making notes at conferences and
+
+87
+00:08:28,920 --> 00:08:35,100
+putting them into your calendar and all that but it is almost impossible for me i tend to
+
+88
+00:08:35,100 --> 00:08:40,260
+months after the event find a scrambled up piece of paper at the bottom of my bag and go oh they
+
+89
+00:08:40,260 --> 00:08:45,280
+were the notes i took on the day whereas now with ai technologies and it's as simple as the
+
+90
+00:08:45,280 --> 00:08:50,640
+microsoft applications yesterday microsoft were on stage with open ai talking about their
+
+91
+00:08:50,640 --> 00:08:56,300
+partnership they had their developer conference and most of the applications for ai are already
+
+92
+00:08:56,300 --> 00:09:02,360
+in your computer it's not something you have to download or sign up to chat gbt for turbo
+
+93
+00:09:02,360 --> 00:09:09,740
+even microsoft to do has so many applications where you can just speak to it in a conversational
+
+94
+00:09:09,740 --> 00:09:16,260
+tone and suddenly before you know it all of these triggers are set that can assist your day for
+
+95
+00:09:16,260 --> 00:09:20,380
+reminders for uh yes yes setting setting uh
+
+96
+00:09:20,640 --> 00:09:26,220
+tasks to do that you're most likely to forget so as a forgetful person that i am i should be
+
+97
+00:09:26,220 --> 00:09:30,700
+anyone wanting to ask a question to uh to ken
+
+98
+00:09:30,700 --> 00:09:36,680
+all right then i think people have noted down uh your 3 p.m
+
+99
+00:09:36,680 --> 00:09:39,780
+demonstrations so make sure to check it at the smart
+
+100
+00:09:39,780 --> 00:09:43,340
+stand excellent thank you guys thank you so much
+
+101
+00:09:43,340 --> 00:09:50,340
+all right so now we are moving to the
+
+102
+00:09:50,640 --> 00:09:58,000
+second one of our solution talks of this session this one coming from a little bit closer to to our
+
+103
+00:09:58,000 --> 00:10:04,880
+home these days and i'm delighted to introduce actually one of the partners of eit uh tomorrow
+
+104
+00:10:04,880 --> 00:10:10,640
+mobility event uh i'm talking about the planification manager at moventis nuria
+
+105
+00:10:10,640 --> 00:10:16,640
+gluminas
+
+106
+00:10:16,640 --> 00:10:18,640
+welcome
+
+107
+00:10:18,640 --> 00:10:20,640
+thank you
+
+108
+00:10:20,640 --> 00:10:28,640
+uh good morning uh first of all thank you very much for inviting us to this session
+
+109
+00:10:29,440 --> 00:10:36,640
+we're very proud to be here for those who don't know moventis moventis is moventia's business unit
+
+110
+00:10:36,640 --> 00:10:44,640
+dedicated to collective mobility this division brings together all the companies of the group
+
+111
+00:10:44,640 --> 00:10:50,480
+that develop their business through the transfer of passengers in buses in coaches
+
+112
+00:10:50,640 --> 00:10:59,440
+streetcars or other mortals transports like public rental bicycles or carpooling
+
+113
+00:10:59,440 --> 00:11:13,440
+moventis is focused on providing innovative solutions that contribute to get sustainable connected and safe mobility for all users
+
+114
+00:11:13,440 --> 00:11:20,320
+in 2017 moventis started to collaborate with the technological platform shuttle
+
+115
+00:11:20,320 --> 00:11:20,340
+in 2017 moventis started to collaborate with the technological platform shuttle
+
+116
+00:11:20,640 --> 00:11:24,000
+to implement a transport on demand line in the city of san cuvada
+
+117
+00:11:24,000 --> 00:11:25,360
+to implement a transport on demand line in the city of san cuvada
+
+118
+00:11:25,360 --> 00:11:29,440
+nowadays we are operating three transport and demand lines in this city
+
+119
+00:11:29,440 --> 00:11:36,720
+with shuttle's solution for the user this solution consists in an application
+
+120
+00:11:36,720 --> 00:11:44,080
+the user when wants to take a trip he makes the request through the application and it tells him
+
+121
+00:11:44,080 --> 00:11:50,480
+when the bus is going to pick him up i'll try to explain very briefly how artificial
+
+122
+00:11:50,480 --> 00:11:50,560
+i'll try to explain very briefly how artificial
+
+123
+00:11:50,560 --> 00:11:53,040
+intelligence has improved this platform
+
+124
+00:11:56,320 --> 00:11:59,920
+to create artificial intelligence we need algorithms and data
+
+125
+00:12:01,120 --> 00:12:08,000
+on the transport on demand case the algorithm must solve a problem called the dial or right problem
+
+126
+00:12:08,560 --> 00:12:15,040
+in this problem we have n requests k vehicles and some constraints like the capacity of the
+
+127
+00:12:15,040 --> 00:12:20,320
+vehicles or the hours of operation and the goal is to optimize the service
+
+128
+00:12:20,960 --> 00:12:24,160
+i i i don't think you can hope to get the correct answer
+
+129
+00:12:24,160 --> 00:12:26,160
+i i don't think you can hope to get the correct answer
+
+130
+00:12:26,160 --> 00:12:28,160
+it can be a little bit subjective depending on the operation
+
+131
+00:12:28,640 --> 00:12:32,080
+what does it mean optimizing the service well it can be a little bit subjective
+
+132
+00:12:32,080 --> 00:12:35,600
+depending on the operation to solve the problem we will use a realistic algorithm
+
+133
+00:12:36,000 --> 00:12:42,720
+and with these algorithms maybe we won't get an exact solution but we can get a
+
+134
+00:12:42,720 --> 00:12:49,120
+solution solution that it's pretty close to the exact one and the computational time is less than
+
+135
+00:12:49,120 --> 00:12:58,480
+algorithm that is an algorithm from 1959 if we have a lot of requests at the same
+
+136
+00:12:58,480 --> 00:13:04,220
+time with this algorithm that is very efficient we could take too long too
+
+137
+00:13:04,220 --> 00:13:09,980
+long to solve the problem that's why shuttle technicians decided to explore
+
+138
+00:13:09,980 --> 00:13:14,980
+other routing algorithms that would fit in the problem to compare the different
+
+139
+00:13:14,980 --> 00:13:19,580
+algorithms they studied the computational time required to solve the
+
+140
+00:13:19,580 --> 00:13:27,940
+problem and the efficiency respect the extra algorithm today the platform works with
+
+141
+00:13:27,940 --> 00:13:33,160
+four algorithms working in parallel and a timeout if the best algorithm gets a
+
+142
+00:13:33,160 --> 00:13:39,200
+solution before timeout the application will show these results but if the best
+
+143
+00:13:39,200 --> 00:13:44,320
+algorithm cannot get a solution before timeout then it will pass to the second
+
+144
+00:13:44,980 --> 00:13:51,640
+and so on to the fourth. another AI technique applied in shuttle is
+
+145
+00:13:51,660 --> 00:13:56,720
+clustering. when we talk about clustering we thought about grouping data in
+
+146
+00:13:56,720 --> 00:14:02,960
+clusters or groups trying to find characteristics that we wouldn't find
+
+147
+00:14:02,960 --> 00:14:10,040
+with our techniques. for example, shuttle has historical data of real trips where
+
+148
+00:14:10,040 --> 00:14:14,520
+they asked the users to score the satisfaction of the trip
+
+149
+00:14:14,980 --> 00:14:22,660
+The users have to score the global satisfaction, the waiting time satisfaction and the satisfaction
+
+150
+00:14:22,660 --> 00:14:24,660
+respect the delay.
+
+151
+00:14:24,660 --> 00:14:29,760
+When we say delay we mean the difference between the real drop of time and the expected drop
+
+152
+00:14:29,760 --> 00:14:30,760
+of time.
+
+153
+00:14:30,760 --> 00:14:37,380
+During this clustering we can see if each point is a trip, that there are three main
+
+154
+00:14:37,380 --> 00:14:39,260
+groups of trips.
+
+155
+00:14:39,260 --> 00:14:44,580
+The blue ones would be those where the user is more satisfied.
+
+156
+00:14:44,580 --> 00:14:51,780
+With the clustering we can find trip profiles and user profiles and this will help to personalize
+
+157
+00:14:51,780 --> 00:14:55,160
+the algorithm for each operation.
+
+158
+00:14:55,160 --> 00:14:59,560
+Because it's not the same taking the bus on a Monday when you have to go to work and you
+
+159
+00:14:59,560 --> 00:15:06,820
+need to be there at some hour or taking the bus on a Saturday afternoon when everything
+
+160
+00:15:06,820 --> 00:15:08,220
+is more relaxed.
+
+161
+00:15:08,220 --> 00:15:09,220
+So, that's it.
+
+162
+00:15:09,220 --> 00:15:15,360
+Another artificial intelligence technique applied is machine learning.
+
+163
+00:15:15,360 --> 00:15:21,120
+With all the historical data they train the machine so the machine can do predictions
+
+164
+00:15:21,120 --> 00:15:22,900
+on the demand.
+
+165
+00:15:22,900 --> 00:15:27,540
+With these predictions then the algorithm recalculates the time and gives a new expected
+
+166
+00:15:27,540 --> 00:15:31,360
+time that is more accurate than the first one.
+
+167
+00:15:31,360 --> 00:15:38,540
+So, if we come back to the day to day of Moventis we can see that the demand has been increasing.
+
+168
+00:15:38,540 --> 00:15:48,220
+So, we can say that artificial intelligence is now a reality in the transport sector.
+
+169
+00:15:48,220 --> 00:15:56,200
+With artificial intelligence we can provide a better service so we have happier users.
+
+170
+00:15:56,200 --> 00:16:02,860
+Thank you very much.
+
+171
+00:16:02,860 --> 00:16:06,320
+Thank you very much Nuria for this interesting presentation and this interesting example
+
+172
+00:16:06,320 --> 00:16:06,680
+actually pretty close from over here.
+
+173
+00:16:08,540 --> 00:16:14,760
+We still have a little bit of time for some questions.
+
+174
+00:16:14,760 --> 00:16:18,300
+If anybody would like to ask a question about Nuria's presentation?
+
+175
+00:16:18,300 --> 00:16:19,300
+Let me see.
+
+176
+00:16:19,300 --> 00:16:20,300
+Over here.
+
+177
+00:16:20,300 --> 00:16:26,720
+There is a microphone over there if you want to get this.
+
+178
+00:16:26,720 --> 00:16:28,720
+Thanks for breaking the ice.
+
+179
+00:16:28,720 --> 00:16:29,720
+Hi.
+
+180
+00:16:29,720 --> 00:16:30,720
+Hi.
+
+181
+00:16:30,720 --> 00:16:31,720
+I am from the Netherlands.
+
+182
+00:16:31,720 --> 00:16:33,220
+I am not really familiar with the on demand services like you are explaining.
+
+183
+00:16:33,220 --> 00:16:34,220
+So, how does that work if there are no passengers, there are no buses?
+
+184
+00:16:34,220 --> 00:16:35,220
+So, I have a question.
+
+185
+00:16:35,220 --> 00:16:36,220
+I am from the Netherlands.
+
+186
+00:16:36,220 --> 00:16:37,220
+I am not familiar with the on demand services like you are explaining.
+
+187
+00:16:37,220 --> 00:16:38,220
+So, how does that work?
+
+188
+00:16:38,540 --> 00:16:39,540
+So, there are no passengers.
+
+189
+00:16:39,540 --> 00:16:40,540
+Just on the practical side.
+
+190
+00:16:40,540 --> 00:16:45,540
+If there are no passengers the bus is stopped and it is not running.
+
+191
+00:16:45,540 --> 00:16:46,540
+That's all.
+
+192
+00:16:46,540 --> 00:16:51,540
+Is there a minimum of people that have to make a demand?
+
+193
+00:16:51,540 --> 00:16:56,540
+The service is planned so the driver is prepared to do the service.
+
+194
+00:16:56,540 --> 00:17:03,300
+We have the driver, we have the bus and if there is no passenger the driver is like this.
+
+195
+00:17:03,300 --> 00:17:04,300
+Okay, perfect.
+
+196
+00:17:04,300 --> 00:17:05,300
+Thank you.
+
+197
+00:17:05,300 --> 00:17:07,300
+Thank you very much for the question.
+
+198
+00:17:07,300 --> 00:17:08,300
+Thanks for another question.
+
+199
+00:17:08,300 --> 00:17:15,300
+There is another one over here.
+
+200
+00:17:15,300 --> 00:17:16,300
+Hi everyone.
+
+201
+00:17:16,300 --> 00:17:19,300
+Thank you very much for the presentation.
+
+202
+00:17:19,300 --> 00:17:23,300
+So, my question is about when does it make sense to implement demand transport and what
+
+203
+00:17:23,300 --> 00:17:30,300
+kind of situation, what kind of values within the city or the rural realm and also how to
+
+204
+00:17:30,300 --> 00:17:33,300
+deploy a system from the beginning.
+
+205
+00:17:33,300 --> 00:17:34,300
+Thank you.
+
+206
+00:17:34,300 --> 00:17:35,300
+Well, usually we implement this kind of lines.
+
+207
+00:17:35,300 --> 00:17:36,300
+So, what do we do?
+
+208
+00:17:36,300 --> 00:17:44,100
+kind of lines in cities places with a low density where having a regular line
+
+209
+00:17:44,100 --> 00:17:53,940
+would be not efficient if I'm having passengers that in peak hour we know
+
+210
+00:17:53,940 --> 00:17:59,540
+that we can give the service with the demand bus
+
+211
+00:17:59,540 --> 00:18:08,760
+thank you any final question please I can come on to the microphone thank you
+
+212
+00:18:11,120 --> 00:18:14,980
+in the idea is that and if anybody would want to ask questions to stand on the
+
+213
+00:18:14,980 --> 00:18:17,140
+line
+
+214
+00:18:21,400 --> 00:18:26,920
+how much did you learn from other cities who tried similar approaches I know
+
+215
+00:18:26,920 --> 00:18:29,460
+Helsinki has something like this like maybe ten years ago
+
+216
+00:18:29,540 --> 00:18:34,160
+so how is this different or maybe just time you've changed so it's a better
+
+217
+00:18:34,160 --> 00:18:42,260
+situation now than it was before well probably all these platforms are yet
+
+218
+00:18:42,260 --> 00:18:47,660
+they were pretty similar way some years ago maybe 50 years ago we started trying
+
+219
+00:18:47,660 --> 00:18:53,780
+this kind of services with the typical series that the user had to call the day
+
+220
+00:18:53,780 --> 00:18:59,520
+before and had to say hey tomorrow I need the service now with all the
+
+221
+00:18:59,520 --> 00:19:08,340
+technology we can do it through this application and probably all the
+
+222
+00:19:08,340 --> 00:19:14,700
+people that is dedicated to study of this kind of algorithms are in contact with one
+
+223
+00:19:14,700 --> 00:19:21,640
+with other ones and they learn from one from one operation from from others
+
+224
+00:19:23,680 --> 00:19:27,680
+maybe since we still have one minute let's do it
+
+225
+00:19:27,680 --> 00:19:29,360
+I do have a final question
+
+226
+00:19:29,520 --> 00:19:31,880
+of the respect of the users because
+
+227
+00:19:31,880 --> 00:19:37,660
+anytime we encounter a new application a new app or new technology it's not always
+
+228
+00:19:37,660 --> 00:19:42,600
+easy to get people to use it yes how difficult or how easy maybe was it
+
+229
+00:19:42,600 --> 00:19:48,880
+for you for the users in Sankoogat to adopt the the usage of the shuttle
+
+230
+00:19:48,880 --> 00:19:56,260
+well we have the application and then there is a form for people that is not used to this kind of technology
+
+231
+00:19:56,260 --> 00:19:59,220
+at the beginning the percentage of people that was
+
+232
+00:19:59,520 --> 00:20:04,520
+requesting the service for the phone was around maybe 50%.
+
+233
+00:20:04,520 --> 00:20:09,520
+Nowadays, the percentage is around 8%.
+
+234
+00:20:09,520 --> 00:20:13,520
+So, every time we have more people using the application,
+
+235
+00:20:13,520 --> 00:20:16,520
+less people have to use it.
+
+236
+00:20:16,520 --> 00:20:22,520
+Very good. And then there's also people of certain ages
+
+237
+00:20:22,520 --> 00:20:25,520
+that don't necessarily understand the phone, but they can still call.
+
+238
+00:20:25,520 --> 00:20:28,520
+They can call, they can. Really interesting.
+
+239
+00:20:28,520 --> 00:20:31,520
+All right, Nuria, so thank you very much for being with us for the presentation
+
+240
+00:20:31,520 --> 00:20:34,520
+and for taking the time to answer our questions.
+
+241
+00:20:34,520 --> 00:20:36,520
+Thank you very much.
+
+242
+00:20:39,520 --> 00:20:43,520
+All right, so we saw two case studies, two examples,
+
+243
+00:20:43,520 --> 00:20:49,520
+on how different AI applications are being used in Dublin and in Barcelona.
+
+244
+00:20:49,520 --> 00:20:53,520
+Now it's time to discuss in more detail the innovations,
+
+245
+00:20:53,520 --> 00:20:57,520
+the implications, the policies needed, everything around
+
+246
+00:20:57,520 --> 00:20:58,520
+what do we do?
+
+247
+00:20:58,520 --> 00:21:02,520
+In terms of data and all other matters.
+
+248
+00:21:02,520 --> 00:21:07,520
+So stay tuned because in just a minute we're starting the panel discussion.
+
+249
+00:21:28,520 --> 00:21:31,520
+All right, and welcome back, everyone.
+
+250
+00:21:31,520 --> 00:21:34,520
+That was a short, that was a very short break.
+
+251
+00:21:34,520 --> 00:21:38,520
+Well, as mentioned, we're starting the second part of our session,
+
+252
+00:21:38,520 --> 00:21:43,520
+so welcome everyone who is joining us just now.
+
+253
+00:21:43,520 --> 00:21:47,520
+After these two examples that we've been seeing on the case of
+
+254
+00:21:47,520 --> 00:21:51,520
+different artificial intelligence usage in urban mobility,
+
+255
+00:21:51,520 --> 00:21:57,520
+we're going to be diving deep on many topics, I think, from the perspective of
+
+256
+00:21:57,520 --> 00:22:06,520
+mobility providers to public entities to how cities can better cooperate with innovators.
+
+257
+00:22:06,520 --> 00:22:10,520
+So I would like to invite my panelists to join me here on stage.
+
+258
+00:22:10,520 --> 00:22:12,520
+I will introduce them in just a second.
+
+259
+00:22:27,520 --> 00:22:37,520
+I guess you can stay here.
+
+260
+00:22:37,520 --> 00:22:38,520
+Excellent.
+
+261
+00:22:38,520 --> 00:22:43,520
+So thank you very much to all of you for having joined this panel discussion.
+
+262
+00:22:43,520 --> 00:22:50,520
+I think we have a great speaker lineup and I'm very excited to discuss in more detail
+
+263
+00:22:50,520 --> 00:22:52,520
+such a fascinating topic.
+
+264
+00:22:52,520 --> 00:22:56,520
+I mean, we have a cool room just in front of us.
+
+265
+00:22:56,520 --> 00:23:00,520
+Just next to me, I'm delighted to introduce the mobility innovation expert
+
+266
+00:23:00,520 --> 00:23:05,520
+coming all the way from London and the former head of innovation at Transport for London,
+
+267
+00:23:05,520 --> 00:23:06,520
+Mr. Rikesh Shah.
+
+268
+00:23:06,520 --> 00:23:09,520
+Thanks for being with us.
+
+269
+00:23:09,520 --> 00:23:12,520
+Also with us is Anne Irefusta Barrena.
+
+270
+00:23:12,520 --> 00:23:16,520
+She's a technology director for industry and mobility at Technalia.
+
+271
+00:23:16,520 --> 00:23:18,520
+Thank you for being with us.
+
+272
+00:23:18,520 --> 00:23:23,520
+On my other side, I'm delighted to introduce from the Frank Hofer Institute for Industrial Engineering,
+
+273
+00:23:23,520 --> 00:23:24,520
+Marco Amorim.
+
+274
+00:23:24,520 --> 00:23:25,520
+Hi.
+
+275
+00:23:25,520 --> 00:23:26,520
+Hi.
+
+276
+00:23:26,520 --> 00:23:32,520
+So with us is the CTO and Assistant City Manager at the City of Pinched Tree Corners in the
+
+277
+00:23:32,520 --> 00:23:34,520
+U.S., Brandon Branham.
+
+278
+00:23:34,520 --> 00:23:39,520
+So I would like to start with you, Rikesh Shah.
+
+279
+00:23:39,520 --> 00:23:46,520
+When we talk about such a global metropolis, such a global city like London, what are the
+
+280
+00:23:46,520 --> 00:23:51,520
+opportunities that AEI has brought for its mobility network?
+
+281
+00:23:51,520 --> 00:23:53,520
+What can you tell us about that?
+
+282
+00:23:53,520 --> 00:23:54,520
+Thank you.
+
+283
+00:23:54,520 --> 00:23:55,520
+Can you hear me okay?
+
+284
+00:23:55,520 --> 00:23:56,520
+Yeah.
+
+285
+00:23:56,520 --> 00:23:57,520
+So I think the role of AEI is a new thing.
+
+286
+00:23:57,520 --> 00:23:58,520
+You know, AEI has been around a long time, since the 1950s.
+
+287
+00:23:58,520 --> 00:23:59,520
+And I just go to what Ken said earlier, it's really relevant, is when I wake up in the
+
+288
+00:23:59,520 --> 00:24:00,520
+morning, I might check my diary or I might then check the news, which is based on what
+
+289
+00:24:00,520 --> 00:24:01,520
+I want to read.
+
+290
+00:24:01,520 --> 00:24:02,520
+I might then do my journey planning.
+
+291
+00:24:02,520 --> 00:24:03,520
+So if I do my journey planning, people like TFL are releasing the data.
+
+292
+00:24:03,520 --> 00:24:04,520
+We release hundreds of data sets.
+
+293
+00:24:04,520 --> 00:24:05,520
+There are over 700 apps in London that are powered by TFL data.
+
+294
+00:24:05,520 --> 00:24:06,520
+And that's based on the data that we have.
+
+295
+00:24:06,520 --> 00:24:07,520
+So if I do my journey planning, people like TFL are releasing the data.
+
+296
+00:24:07,520 --> 00:24:08,520
+We release hundreds of data sets.
+
+297
+00:24:08,520 --> 00:24:09,520
+There are over 700 apps in London that are powered by TFL data.
+
+298
+00:24:09,520 --> 00:24:10,520
+And that's based on the data that we have.
+
+299
+00:24:10,520 --> 00:24:27,080
+And that's based on my preference, 42% of Londoners use an app that's relevant to them.
+
+300
+00:24:27,080 --> 00:24:32,640
+So that's a form of AI.
+
+301
+00:24:32,640 --> 00:24:35,520
+Then if I get onto the road, the traffic's optimized.
+
+302
+00:24:35,520 --> 00:24:39,080
+The traffic's optimized based on the traffic lights and how you work.
+
+303
+00:24:39,080 --> 00:24:40,080
+The city wants to control the traffic.
+
+304
+00:24:40,080 --> 00:24:40,500
+So what can I do?
+
+305
+00:24:40,520 --> 00:24:44,200
+Then there might be a road safety element.
+
+306
+00:24:44,200 --> 00:24:49,080
+So it could be a case of what data is coming out of the cars, what data is coming out of
+
+307
+00:24:49,080 --> 00:24:50,080
+the vehicles.
+
+308
+00:24:50,080 --> 00:24:53,080
+So actually the opportunities have been there for a long time.
+
+309
+00:24:53,080 --> 00:24:55,860
+And the opportunities will continue to be there going forward.
+
+310
+00:24:55,860 --> 00:24:58,780
+I think where we need to be clear is what are the problems that we're trying to solve
+
+311
+00:24:58,780 --> 00:25:01,960
+for our cities in the short, medium and long term.
+
+312
+00:25:01,960 --> 00:25:02,960
+And then what outcomes do you want?
+
+313
+00:25:02,960 --> 00:25:06,220
+And if we don't get that right, it just becomes a technology thing.
+
+314
+00:25:06,220 --> 00:25:10,240
+So we've got to contextualise everything really well, which I'm sure we're doing well today.
+
+315
+00:25:10,240 --> 00:25:11,240
+Contextualising, indeed.
+
+316
+00:25:11,240 --> 00:25:17,480
+And I think already we've got some hints on really how do we put the needs of our passengers,
+
+317
+00:25:17,480 --> 00:25:18,480
+of our users first.
+
+318
+00:25:18,480 --> 00:25:22,480
+And we're going to be getting back to it very shortly, indeed.
+
+319
+00:25:22,480 --> 00:25:26,100
+Then I'd like to turn to Brandon Brown.
+
+320
+00:25:26,100 --> 00:25:30,660
+So the city of page three corners, it would be great if first of all, you can also put
+
+321
+00:25:30,660 --> 00:25:32,740
+us on the map.
+
+322
+00:25:32,740 --> 00:25:37,300
+I think that no one better to introduce us than you.
+
+323
+00:25:37,300 --> 00:25:40,220
+And how is it implementing AI in a smart city?
+
+324
+00:25:40,220 --> 00:25:44,460
+Thank you for those in the room.
+
+325
+00:25:44,460 --> 00:25:49,120
+We are just north of Atlanta, so 20 minutes from downtown Atlanta.
+
+326
+00:25:49,120 --> 00:25:52,860
+We like to say Atlanta is a suburb of Peachtree Corners.
+
+327
+00:25:52,860 --> 00:25:57,720
+But what we're seeing, obviously, in the metropolitan area, and Kim hit it on earlier, is traffic
+
+328
+00:25:57,720 --> 00:25:58,720
+is a major concern.
+
+329
+00:25:58,720 --> 00:26:01,940
+As we all know, the US is very car centric.
+
+330
+00:26:01,940 --> 00:26:05,680
+So how do we take use of the infrastructure to start to improve that?
+
+331
+00:26:05,680 --> 00:26:09,460
+We have a corridor that cuts through the heart of our city that carries 60,000 cars a day.
+
+332
+00:26:09,460 --> 00:26:13,700
+Right through the middle of our downtown area.
+
+333
+00:26:13,700 --> 00:26:18,140
+And so we're starting to do those things in traffic using the sensor sets that are on
+
+334
+00:26:18,140 --> 00:26:19,140
+there.
+
+335
+00:26:19,140 --> 00:26:22,140
+But then we decided to introduce an autonomous shuttle.
+
+336
+00:26:22,140 --> 00:26:25,300
+So how does that start to interact with the infrastructure?
+
+337
+00:26:25,300 --> 00:26:31,600
+So we use the AI sets that are on the sensor stack in the shuttle to communicate with our
+
+338
+00:26:31,600 --> 00:26:32,600
+infrastructure.
+
+339
+00:26:32,600 --> 00:26:37,700
+So we start to do preemption of traffic signals through that, and trying to find ways, because
+
+340
+00:26:37,700 --> 00:26:38,700
+in the US, public transportation is a major concern.
+
+341
+00:26:38,700 --> 00:26:47,380
+So how do we start to make it a viable option using AI in transportation and transportation
+
+342
+00:26:47,380 --> 00:26:48,380
+infrastructure?
+
+343
+00:26:48,380 --> 00:26:55,380
+Because I think how we're going to get there and the stuff that we're starting to do in
+
+344
+00:26:55,380 --> 00:26:56,380
+district orders.
+
+345
+00:26:56,380 --> 00:26:57,380
+So thank you.
+
+346
+00:26:57,380 --> 00:26:58,380
+Thank you very much.
+
+347
+00:26:58,380 --> 00:26:59,380
+I think, yeah, it's very, very interesting to see how different cities are implementing
+
+348
+00:26:59,380 --> 00:27:00,380
+solutions from all over the world.
+
+349
+00:27:00,380 --> 00:27:01,380
+So I would like then to turn to our next speaker, Anaida Fustavarena of Tecnalia.
+
+350
+00:27:01,380 --> 00:27:02,380
+Anaida Fustavarena of Tecnalia.
+
+351
+00:27:02,380 --> 00:27:03,380
+Anaida Fustavarena of Tecnalia.
+
+352
+00:27:03,380 --> 00:27:04,380
+Anaida Fustavarena of Tecnalia.
+
+353
+00:27:04,380 --> 00:27:05,380
+Anaida Fustavarena of Tecnalia.
+
+354
+00:27:05,380 --> 00:27:06,380
+Anaida Fustavarena.
+
+355
+00:27:06,380 --> 00:27:07,380
+Anaida Fustavarena.
+
+356
+00:27:07,380 --> 00:27:08,380
+Anaida Fustavarena.
+
+357
+00:27:08,380 --> 00:27:09,380
+Anaida Fustavarena of Tecnalia.
+
+358
+00:27:09,380 --> 00:27:10,380
+Anaida Fustavarena of Tecnalia.
+
+359
+00:27:10,380 --> 00:27:11,380
+Anaida Fustavarena of Tecnalia.
+
+360
+00:27:11,380 --> 00:27:19,120
+What are the AI solutions that you are looking into specifically and what do you think is
+
+361
+00:27:19,120 --> 00:27:20,740
+needed to scale them up?
+
+362
+00:27:20,740 --> 00:27:23,740
+Okay, thank you, Ana.
+
+363
+00:27:23,740 --> 00:27:27,500
+Thank you to Tomorrow Mobility for inviting us, Tecnalia, to reply to this relevant question
+
+364
+00:27:27,500 --> 00:27:30,840
+about upscaling solutions, AI solutions.
+
+365
+00:27:30,840 --> 00:27:38,100
+So we have seen two nice solutions in the first part of this session.
+
+366
+00:27:38,100 --> 00:27:47,620
+Well, I would first of all say that most AI developments remain as a proof of concept.
+
+367
+00:27:48,520 --> 00:27:51,760
+So it's difficult, they are tested offline,
+
+368
+00:27:51,760 --> 00:27:59,760
+and it's difficult to really have the whole life cycle for widespread errors
+
+369
+00:28:00,400 --> 00:28:04,880
+and for giving the necessary time to this whole life cycle
+
+370
+00:28:04,880 --> 00:28:09,620
+to really find or validate the solution.
+
+371
+00:28:10,020 --> 00:28:16,220
+So this life cycle needs to take into account ML, machine learning operations,
+
+372
+00:28:16,460 --> 00:28:18,740
+data operations, AI operations.
+
+373
+00:28:18,740 --> 00:28:23,160
+And so I think this is one of the most relevant aspects
+
+374
+00:28:23,160 --> 00:28:27,480
+that we need to take into account for upscaling AI solutions.
+
+375
+00:28:27,920 --> 00:28:34,860
+Then I think AI-based solutions must incorporate adequate management of the expectations
+
+376
+00:28:34,860 --> 00:28:34,880
+and the expectations of the AI.
+
+377
+00:28:34,880 --> 00:28:38,780
+So the steps must be incremental,
+
+378
+00:28:39,700 --> 00:28:47,120
+and an incremental roadmap, realistic, taking into account quick wins, must be applied.
+
+379
+00:28:48,000 --> 00:28:51,260
+Then access to skills, access to talent,
+
+380
+00:28:51,560 --> 00:28:57,160
+this is also something we need and it's relevant for the upscaling.
+
+381
+00:28:58,020 --> 00:29:02,580
+And the acceptance by professionals of a human-centered AI approach,
+
+382
+00:29:02,580 --> 00:29:04,480
+perhaps in the two nice solutions,
+
+383
+00:29:04,660 --> 00:29:04,860
+and one of the most important ones,
+
+384
+00:29:04,860 --> 00:29:09,300
+and at least that this is relevant and needs to take into account.
+
+385
+00:29:09,980 --> 00:29:14,160
+And then another clear aspect is the regulatory framework.
+
+386
+00:29:15,020 --> 00:29:19,060
+So this can be agreed at a global level.
+
+387
+00:29:20,340 --> 00:29:25,960
+These steps are taken to regulate the AI.
+
+388
+00:29:26,260 --> 00:29:30,440
+We have this sandbox on AI, the AI Act,
+
+389
+00:29:30,960 --> 00:29:33,940
+that will be defined and validated in two years' time.
+
+390
+00:29:33,940 --> 00:29:34,640
+So all of these steps are taken to regulate the AI.
+
+391
+00:29:34,640 --> 00:29:45,620
+So all this is needed, and I think these are, I would say, the most relevant aspects we need to take into account for the upscaling of AI solutions to the market.
+
+392
+00:29:46,520 --> 00:29:52,660
+Very interesting. You've put some important ingredients on the table. I've noted down the expectations, being realistic.
+
+393
+00:29:53,220 --> 00:29:57,120
+The access to skills and talent, when you were saying that, the room next to us was applauding.
+
+394
+00:29:57,320 --> 00:30:01,120
+So I think it probably resonated even in the other side of the room as well.
+
+395
+00:30:01,120 --> 00:30:07,460
+So these are all, I think, important questions that we will also take in the panel, indeed.
+
+396
+00:30:07,960 --> 00:30:15,160
+And then, last but not least, before I move, I open the debate, I would like to turn to Marco to tell us,
+
+397
+00:30:15,780 --> 00:30:21,660
+because you've been doing extensive research on how users perceive artificial intelligence.
+
+398
+00:30:21,920 --> 00:30:29,040
+So how would you assess it generally? The average user would perceive solutions of AI mobility.
+
+399
+00:30:29,040 --> 00:30:30,500
+What are their preferences?
+
+400
+00:30:31,120 --> 00:30:35,600
+What are the, I don't know, uncertainties or fears? What can you tell us?
+
+401
+00:30:35,600 --> 00:30:44,500
+Yeah, that's a good question, and quite a complex one, but so I will just point three main points that I think are quite interesting ones.
+
+402
+00:30:44,500 --> 00:30:45,880
+So the first one is habits.
+
+403
+00:30:45,880 --> 00:30:53,220
+So as humans, we are people of habits, so we like to stick to what we know, the way we do things.
+
+404
+00:30:53,220 --> 00:31:00,960
+So usually we don't like to go out of our comfort zone, and we have some studies, for example, that shows that cities,
+
+405
+00:31:00,960 --> 00:31:06,600
+where there have been pilots for automated vehicles, shuttles, or normal vehicles,
+
+406
+00:31:07,080 --> 00:31:12,340
+people usually are more willing to accept those technologies in the future.
+
+407
+00:31:12,800 --> 00:31:16,020
+So this is something that can prove this fact of the habits.
+
+408
+00:31:16,500 --> 00:31:18,200
+The next part is trust.
+
+409
+00:31:18,740 --> 00:31:23,920
+So we need to trust these new technologies or new service.
+
+410
+00:31:25,500 --> 00:31:29,300
+And for that, there is always a question.
+
+411
+00:31:30,000 --> 00:31:30,920
+Is this service reliable?
+
+412
+00:31:30,960 --> 00:31:32,220
+I mean, I never used it.
+
+413
+00:31:32,240 --> 00:31:33,000
+Will it work?
+
+414
+00:31:33,000 --> 00:31:33,900
+Will it not work?
+
+415
+00:31:35,100 --> 00:31:36,700
+And for example, there.
+

@@ -1,0 +1,360 @@
+start	end	text
+0	5540	But these are what I would consider to be full-stack users of geographic information systems.
+5760	13440	They create data, they analyze data, they integrate GIS data or location data with the business systems that run those groups,
+13680	17060	and they communicate with the public.
+17540	22080	So full-stack, they use the soup-to-nuts capabilities of a GIS technology.
+23180	26820	So is this approach and is this technology relevant in government?
+26820	29500	I'd say yes, we have evidence that it is.
+30000	32400	This is a map of the United States, obviously.
+33380	38480	The red dots represent the local governments that are using GIS as a core business system.
+39580	42200	It's literally tens of thousands of organizations.
+42420	49320	They range from large cities like Barcelona, like Madrid, like Singapore, like New York City,
+49540	51700	all the way down to very small municipalities.
+51940	57240	But it's proof that location and GIS is a core business system in government
+57240	59900	and is essential for media.
+60000	66320	There are four major areas that we see GIS really contributing to in government.
+66320	73820	First and foremost, and I'm going to give you an example of one in just a few minutes that cover an example of my community, where I live,
+73820	76820	how they use GIS for one specific thing that covers all of these.
+76820	80500	But the first area is planning and engineering.
+80500	86380	So the whole design of a community and how your community needs to be designed and how location can play a role in that.
+86380	89380	The second is around operational efficiency.
+90000	93220	So every government wants to provide good services to their citizens,
+93220	96220	both their citizens and their internal constituents.
+96220	99220	And location and spatial analytics can help drive that.
+99220	104220	Improving services in terms of efficiency, making sure that we're providing services to the right people,
+104220	107220	just making sure the very purpose of government is achieved.
+107220	113220	The third, I would go into this lower left-hand quadrant, is the ability to use spatial data
+113220	117220	to help make informed decisions or data-driven decisions.
+117220	119220	Location is an essential component.
+120000	122000	It's an essential component to that process.
+122000	128000	I would say it's a favored framework for understanding data, understanding your communities,
+128000	132000	and as a result, being able to make really effective decisions in your organization.
+132000	135000	It's like no other technology that actually exists.
+135000	140000	I often kid and say, you know, I've been in this business for 30 years,
+140000	145000	and I've never seen a group of government officials huddled around a spreadsheet.
+145000	146000	Not once.
+146000	149000	But I see them huddled around the maps, and I see them looking at dashboards.
+149000	150000	And that, to me, is really important.
+150000	155000	It's proof in the pudding that there's something special about the use of geographic capabilities.
+155000	159000	And the last component is around civic inclusion.
+159000	163000	And I would use that as sort of a broad term, because I would say it's civic inclusion,
+163000	169000	but it's also inclusion or collaboration within organizations as well.
+169000	174000	There's something about using the geographic component that drives collaboration.
+174000	178000	There's a whole additional presentation that can be given on why this is the case.
+178000	179000	But there's something about using a map.
+179000	187000	Using a location reference to look at data that just captivates people.
+187000	191000	It helps identify ownership within a government.
+191000	193000	Somebody owns everything.
+193000	197000	If you have a school that's not performing well, someone's responsible.
+197000	203000	If you have maintenance that's not being performed in a certain area, someone is responsible.
+203000	208000	If you have crime in a certain area, there's someone that's responsible.
+208000	214000	There's someone who's interested deeply in those characteristics or conditions in a given area.
+214000	218000	And just by having that location component, it drives engagement.
+218000	227000	On the civic side, we've heard for years the importance of communicating and collaborating with the public.
+227000	230000	Governments are trying to do this all the time.
+230000	233000	And one of the most common things that I hear from governments are,
+233000	237000	we've invested a lot of time and energy in tools to engage the public,
+237000	241000	and we just don't have the level of engagement that we're looking for.
+241000	244000	We know from our experience in working with our customers
+244000	247000	that where there's a location component in those engagement solutions,
+247000	249000	there's an increased level of engagement.
+249000	251000	So why is that?
+251000	256000	People are interested in crime, schools, capital improvement projects,
+256000	258000	whatever the subject may be.
+258000	263000	But they're really interested in how their government and their community is performing
+263000	266000	in relation to where they live and where they spend their time.
+266000	269000	And that's why the location piece is so important there.
+269000	271000	So what do we know?
+271000	280000	Number one, we know that the way that communities are designed and managed matters.
+280000	284000	In just a minute, I'm going to share with you one aspect of the community that I live in.
+284000	287000	I can attest to this fact, number one.
+287000	292000	The services that you provide, the amenities that are maintained,
+292000	296000	they actually can change the behavior of the citizens in a community.
+296000	298000	There is absolutely no doubt about it.
+298000	303000	So putting the time and effort into planning and organizing and managing your community
+303000	308000	has a direct impact on the health and viability of that community.
+308000	315000	Number two, governments are challenged today in ways that they've never been challenged before.
+315000	318000	I would call them wicked problems.
+318000	325000	It could be everything from the cost of living, housing shortages, homelessness, crime, you name it.
+326000	329000	There are significant challenges that need to be faced today.
+329000	333000	So if you think that a community needs to be designed and managed properly,
+333000	335000	when you think about the challenges that exist today,
+335000	339000	it just reinforces the need for the technology that you're seeing at this event
+339000	345000	and the use of a technology like GIS to actually help governments achieve what they're trying to achieve.
+345000	347000	They have to use technology.
+347000	350000	They have to be creative at a human level.
+350000	355000	Apply human expertise to creating solutions to help cultivate and maintain really healthy communities.
+356000	362000	The last thing we know is that location is a key component to this whole entire process.
+362000	367000	You know, I spent the last couple of days visiting customers in this area.
+367000	370000	And when you walk around this convention center,
+370000	375000	you'll see that there's maps and visualizations that use geography in just about every single booth.
+375000	381000	It is a core component to all information technology and all components of a smart city,
+381000	383000	or what we call a smart community.
+383000	384000	So location is central.
+384000	385000	I don't really think you can exist without it.
+386000	389000	So let me tell you a little story about where I live.
+389000	395000	This is a simple example of how location can be powerful and how it's used by a government.
+395000	397000	I live in Boulder, Colorado.
+397000	401000	It's a city of about 100,000 people.
+401000	403000	It's a unique community.
+403000	405000	We have a tremendous amount of open space.
+405000	408000	So there's trails, there's a lot of outdoor activities, parks.
+408000	411000	We have a central business district.
+411000	415000	It's a very strictly planned community where there's a central density.
+416000	418000	We have commercial and residential homes.
+418000	422000	And then as you get outside, it's more open space.
+422000	427000	There's a series of amenities that I particularly take part in.
+427000	429000	We have an incredible...
+429000	434000	For the United States, we have an incredible cycling infrastructure
+434000	437000	for bicycle commuters and recreation.
+437000	441000	So we have over 300 miles of dedicated bike lane.
+441000	442000	It's sort of broken out.
+442000	443000	I broke them out over here.
+443000	445000	There's 96 miles of bike lane
+445000	447000	that are on the road.
+447000	453000	There's 50 miles of bike paths, dedicated bike paths.
+453000	455000	There's no cars on it at all.
+455000	457000	It's like it's going to a highway system.
+457000	460000	And then 84 miles of multi-use path.
+460000	463000	You often don't have to cross a road on a bike.
+463000	469000	There's 80 underpasses in the city that go under busy intersections.
+469000	471000	I'm pointing out these details for a reason
+471000	474000	because the way cities are managed changes behavior.
+474000	476000	I've lived other places.
+476000	478000	I ride my bike 13 miles to work every day.
+478000	481000	And the reason why I do it is because I never have to get on a road.
+481000	483000	So if you want to get cars off the road,
+483000	485000	you want to create a healthy community,
+485000	487000	it all starts with design and engineering.
+487000	489000	You build the infrastructure to support it.
+489000	492000	This is a community that's done that.
+492000	494000	So what do you think...
+494000	498000	We have an active citizenry that takes advantage of this resource.
+498000	502000	So what would you suspect would be a major component of our...
+502000	504000	Like a priority that our community would have?
+504000	506000	It would be bicycle safety.
+506000	510000	And so part of being a smart community, part of being a smart city,
+510000	513000	is not just the technology that you use,
+513000	516000	but it's also the people that work in that organization
+516000	519000	and their ability to understand what the priorities of their community are,
+519000	523000	leverage technology to help them make solid decisions
+523000	527000	that reference those priorities and actually get things done.
+527000	529000	That's what makes you a smart community.
+529000	531000	You can wire up as many sensors as you want.
+531000	533000	You can take as many data streams as you want.
+533000	536000	You can automate whatever processes you want.
+536000	539000	But unless you can make this connection between technology
+539000	542000	and actual work that has to be done to improve your community,
+542000	544000	I don't think you're getting very far.
+544000	546000	So they've identified this as a priority.
+546000	551000	And what they've done here is first use a geographic information system
+551000	555000	to analyze crash and accident data across the city.
+555000	558000	And they went through a process of collecting all the accident data.
+558000	560000	They break it down every way that you can imagine,
+560000	563000	including where there are pedestrian and cycling incidents.
+563000	565000	You can see them over here on the left.
+565000	568000	From this, they created hotspot analysis
+568000	573000	to understand which roadways were the most dangerous of cyclists in this case.
+573000	577000	They used this information to populate, if you've heard of Vision Zero,
+577000	582000	it's an initiative to reduce pedestrian deaths down to zero.
+582000	584000	It doesn't just focus on cycling.
+584000	587000	It focuses on all pedestrian incidents and deaths.
+587000	590000	But of course, there's a cycling component to the whole thing.
+590000	593000	So the GIS analysis went into creating
+593000	595000	their Vision Zero report,
+595000	600000	which breaks down where the pedestrian death and accident
+600000	606000	sort of situation in the community,
+606000	611000	and then helping them prioritize where they actually can make improvements.
+611000	615000	And so then as a citizen, I can review that report,
+615000	619000	but I can also go in and see where they plan capital improvement projects
+619000	622000	based on that data.
+622000	625000	So it's not just going in and saying, you know,
+625000	626000	you want to add bike lanes,
+626000	629000	but where should they improve the safety of bike lanes?
+629000	631000	Where is it most important?
+631000	633000	And they've identified nine major projects.
+633000	637000	There's one that's exceptionally important to me.
+637000	641000	So now we're getting back to why does it drive citizen engagement?
+641000	643000	Well, I live right over here.
+643000	646000	And this road on the baseline happens to be
+646000	651000	a common component of the bikeways that I use all the time.
+651000	652000	And guess what?
+652000	653000	It is not safe.
+653000	654000	It has not been safe.
+654000	657000	There's a bike lane, but it's not safe.
+657000	660000	So I have for many years wondered,
+660000	665000	what are we going to do to improve the safety on this road segment?
+665000	670000	Then there comes the GIS analysis on this road baseline
+670000	672000	where they do all the engineering work and design.
+672000	674000	What amenities exist there?
+674000	675000	What do we need to add?
+675000	676000	It's sort of a bad map of that,
+676000	678000	but they've done the analysis of like,
+678000	680000	what can we do to improve this scenario?
+680000	683000	All of this is available publicly to the citizens.
+683000	685000	So if you want to find any of this information,
+685000	686000	just go to the website,
+686000	688000	look for capital improvement projects.
+688000	690000	We can walk you through this.
+690000	691000	This is an image.
+691000	692000	I didn't take this.
+692000	693000	I didn't create this.
+693000	698000	This becomes a visualization into that project.
+698000	700000	These are the existing bike lanes.
+700000	701000	You can see there's no barrier.
+701000	703000	It looks like there's a nice distance there,
+703000	704000	but trust me,
+704000	705000	when you're riding on it,
+705000	706000	especially in the snow,
+706000	708000	that's not enough.
+708000	710000	This is what the road looks like.
+710000	713000	They then have a visualization
+713000	714000	where they can show you the improvements
+714000	715000	they're going to make.
+715000	718000	And what's not on this slide
+718000	720000	that I would want to communicate is
+720000	722000	the first phase of the project,
+722000	725000	on this bike lane,
+725000	729000	they put those flexible reflector things,
+729000	731000	and that seemed like it was great.
+731000	733000	About two weeks after they were installed,
+733000	735000	you see whole swaths of them
+735000	737000	knocked over by cars.
+737000	738000	Not a good...
+738000	740000	It doesn't feel the same.
+740000	742000	It's not a good sense of comfort.
+742000	743000	What's available on the website
+743000	745000	that you could look at would be...
+745000	747000	What are the future enhancements?
+747000	749000	The future enhancements would be solid barriers
+749000	750000	that they would have.
+750000	752000	So, of course, I'm like,
+752000	755000	okay, it's a possible future enhancement.
+755000	756000	Is that ever going to happen?
+756000	757000	Will it ever happen?
+757000	760000	Well, I took this photograph last week.
+760000	762000	They've added the concrete barriers
+762000	763000	on the side of the road.
+763000	765000	That's a much safer environment.
+765000	767000	But as a citizen, I was able to say,
+767000	769000	here's what my government did.
+770000	773000	They identified the challenge or the problem
+773000	775000	that was a priority for the citizens.
+775000	779000	They did actual analytic work using a GIS
+779000	782000	to understand where they could improve on that problem.
+782000	783000	They did the analysis.
+783000	785000	They created a report.
+785000	788000	They incorporated it into their capital improvement plan
+788000	789000	and their process,
+789000	791000	and they executed against it.
+791000	793000	And all of it's available for me as a citizen
+793000	795000	to watch and track.
+795000	797000	That, to me, is a smart...
+797000	799000	an example of a smart community.
+799000	801000	Now, if you ride a lot of bikes,
+801000	803000	and this is not a joke, but it's sort of funny,
+803000	806000	one of the things you get worried about is bicycle theft.
+806000	807000	Well, they also have a dashboard
+807000	810000	that tracks the amount of bicycle theft.
+810000	812000	I'll just tell you the thing that's interesting
+812000	815000	about this to me is this number.
+815000	818000	It just means that you don't want your bike to get stolen.
+818000	819000	So we have a map of the bikes,
+819000	820000	but we're not recovering many of them.
+820000	822000	That's just the fact of the day.
+822000	825000	But we're tracking all of this for cyclists.
+825000	828000	So I'll close with a couple slides.
+829000	832000	What I would get to and sort of a message
+832000	834000	or an advice I would get is
+834000	836000	if what I said is true,
+836000	838000	location is important,
+841000	843000	governments that use GIS and location
+843000	847000	as a way to help make their communities smarter
+847000	849000	are doing well.
+849000	851000	It's a valuable technology.
+851000	853000	If that's the case,
+853000	856000	then I would suggest that all governments
+856000	858000	should embrace geographic information systems.
+858000	861000	And they can embrace it across their organization,
+861000	862000	across the entire enterprise.
+862000	864000	And to do that effectively,
+864000	867000	you really need to have a geospatial strategy.
+867000	869000	There's a process that you can go through,
+869000	871000	and there's many different processes,
+871000	873000	so I won't advocate one or the other.
+873000	875000	But have a process to go through,
+875000	877000	create a geospatial strategy
+877000	879000	where you understand the data that you need,
+879000	881000	and most importantly,
+881000	882000	get to the end of this process
+882000	885000	where you understand the business solutions
+885000	887000	that have the greatest impact on your organization.
+888000	889000	That's where you want to go to.
+889000	891000	And then leverage the tools
+891000	893000	that are appropriate to you
+893000	895000	to actually execute that plan.
+895000	898000	One of the things that we've done as an organization
+898000	901000	is we've identified over the past 50 years
+901000	904000	the common work that governments use
+904000	906000	our technology to support.
+906000	909000	So if you go into an engineering department
+909000	911000	or a transportation department,
+911000	913000	there are common GIS applications
+913000	915000	everywhere you go.
+915000	917000	I saw them represented this week in Madrid
+917000	919000	and in Barcelona.
+919000	921000	It's the same type of solutions.
+921000	923000	We have gone through and developed
+923000	926000	a whole collection of over 200 ArcGIS solutions
+926000	929000	that align to very specific domains.
+929000	931000	So if you're a city or a county
+931000	932000	or a state agency,
+932000	939000	you can go onto the ArcGIS solution site,
+939000	942000	peruse the different types of GIS applications
+942000	946000	and have free access to the applications
+946000	948000	and the code.
+948000	950000	So that we open source the actual code
+950000	952000	so that you can actually enhance if you want to
+952000	955000	or extend or localize in this case
+955000	957000	any of these applications.
+957000	960000	These solutions and this gallery of solutions
+960000	962000	also can provide you with a roadmap
+962000	965000	for what your GIS implementation
+965000	967000	in your organization can be.
+967000	969000	It will lay out to you the common solutions
+969000	972000	in public works, in police, in emergency management.
+972000	974000	Whatever department it is that you're in,
+974000	976000	it will lay out the common
+976000	978000	cases for your organization.
+978000	980000	So you can leverage these solutions,
+980000	982000	buy them from a third party partner
+982000	984000	or something similar,
+984000	986000	a similar solution.
+986000	987000	Or if you have the resources,
+987000	988000	you can use our developer tools
+988000	989000	to create them yourself.
+989000	991000	But there's over 200 of these
+991000	994000	available on the ArcGIS solution site.
+994000	996000	So again, what we know,
+996000	998000	the way communities are designed matters.
+998000	1000000	It's not all about technology.
+1000000	1002000	Technology is an enabler
+1002000	1004000	to help us design communities.
+1004000	1005000	That's very important.
+1005000	1006000	Number two,
+1006000	1008000	it's not getting easier to do this.
+1008000	1011000	Because it's not getting easier to do this,
+1011000	1013000	we need to be creative.
+1013000	1015000	And again, I harp on this,
+1015000	1017000	but it's not just technology,
+1017000	1019000	it's technology plus people
+1019000	1021000	to get creative and actually solve problems.
+1021000	1022000	And third,
+1022000	1024000	location is a central component
+1024000	1026000	to that process.
+1026000	1028000	Thank you very much.
+1028000	1029000	I'm around.
+1029000	1030000	We have our booth back here.
+1030000	1031000	I welcome you to come by our booth
+1031000	1032000	and talk to myself
+1032000	1034000	or any of the other heads.

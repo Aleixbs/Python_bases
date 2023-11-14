@@ -1,0 +1,359 @@
+But these are what I would consider to be full-stack users of geographic information systems.
+They create data, they analyze data, they integrate GIS data or location data with the business systems that run those groups,
+and they communicate with the public.
+So full-stack, they use the soup-to-nuts capabilities of a GIS technology.
+So is this approach and is this technology relevant in government?
+I'd say yes, we have evidence that it is.
+This is a map of the United States, obviously.
+The red dots represent the local governments that are using GIS as a core business system.
+It's literally tens of thousands of organizations.
+They range from large cities like Barcelona, like Madrid, like Singapore, like New York City,
+all the way down to very small municipalities.
+But it's proof that location and GIS is a core business system in government
+and is essential for media.
+There are four major areas that we see GIS really contributing to in government.
+First and foremost, and I'm going to give you an example of one in just a few minutes that cover an example of my community, where I live,
+how they use GIS for one specific thing that covers all of these.
+But the first area is planning and engineering.
+So the whole design of a community and how your community needs to be designed and how location can play a role in that.
+The second is around operational efficiency.
+So every government wants to provide good services to their citizens,
+both their citizens and their internal constituents.
+And location and spatial analytics can help drive that.
+Improving services in terms of efficiency, making sure that we're providing services to the right people,
+just making sure the very purpose of government is achieved.
+The third, I would go into this lower left-hand quadrant, is the ability to use spatial data
+to help make informed decisions or data-driven decisions.
+Location is an essential component.
+It's an essential component to that process.
+I would say it's a favored framework for understanding data, understanding your communities,
+and as a result, being able to make really effective decisions in your organization.
+It's like no other technology that actually exists.
+I often kid and say, you know, I've been in this business for 30 years,
+and I've never seen a group of government officials huddled around a spreadsheet.
+Not once.
+But I see them huddled around the maps, and I see them looking at dashboards.
+And that, to me, is really important.
+It's proof in the pudding that there's something special about the use of geographic capabilities.
+And the last component is around civic inclusion.
+And I would use that as sort of a broad term, because I would say it's civic inclusion,
+but it's also inclusion or collaboration within organizations as well.
+There's something about using the geographic component that drives collaboration.
+There's a whole additional presentation that can be given on why this is the case.
+But there's something about using a map.
+Using a location reference to look at data that just captivates people.
+It helps identify ownership within a government.
+Somebody owns everything.
+If you have a school that's not performing well, someone's responsible.
+If you have maintenance that's not being performed in a certain area, someone is responsible.
+If you have crime in a certain area, there's someone that's responsible.
+There's someone who's interested deeply in those characteristics or conditions in a given area.
+And just by having that location component, it drives engagement.
+On the civic side, we've heard for years the importance of communicating and collaborating with the public.
+Governments are trying to do this all the time.
+And one of the most common things that I hear from governments are,
+we've invested a lot of time and energy in tools to engage the public,
+and we just don't have the level of engagement that we're looking for.
+We know from our experience in working with our customers
+that where there's a location component in those engagement solutions,
+there's an increased level of engagement.
+So why is that?
+People are interested in crime, schools, capital improvement projects,
+whatever the subject may be.
+But they're really interested in how their government and their community is performing
+in relation to where they live and where they spend their time.
+And that's why the location piece is so important there.
+So what do we know?
+Number one, we know that the way that communities are designed and managed matters.
+In just a minute, I'm going to share with you one aspect of the community that I live in.
+I can attest to this fact, number one.
+The services that you provide, the amenities that are maintained,
+they actually can change the behavior of the citizens in a community.
+There is absolutely no doubt about it.
+So putting the time and effort into planning and organizing and managing your community
+has a direct impact on the health and viability of that community.
+Number two, governments are challenged today in ways that they've never been challenged before.
+I would call them wicked problems.
+It could be everything from the cost of living, housing shortages, homelessness, crime, you name it.
+There are significant challenges that need to be faced today.
+So if you think that a community needs to be designed and managed properly,
+when you think about the challenges that exist today,
+it just reinforces the need for the technology that you're seeing at this event
+and the use of a technology like GIS to actually help governments achieve what they're trying to achieve.
+They have to use technology.
+They have to be creative at a human level.
+Apply human expertise to creating solutions to help cultivate and maintain really healthy communities.
+The last thing we know is that location is a key component to this whole entire process.
+You know, I spent the last couple of days visiting customers in this area.
+And when you walk around this convention center,
+you'll see that there's maps and visualizations that use geography in just about every single booth.
+It is a core component to all information technology and all components of a smart city,
+or what we call a smart community.
+So location is central.
+I don't really think you can exist without it.
+So let me tell you a little story about where I live.
+This is a simple example of how location can be powerful and how it's used by a government.
+I live in Boulder, Colorado.
+It's a city of about 100,000 people.
+It's a unique community.
+We have a tremendous amount of open space.
+So there's trails, there's a lot of outdoor activities, parks.
+We have a central business district.
+It's a very strictly planned community where there's a central density.
+We have commercial and residential homes.
+And then as you get outside, it's more open space.
+There's a series of amenities that I particularly take part in.
+We have an incredible...
+For the United States, we have an incredible cycling infrastructure
+for bicycle commuters and recreation.
+So we have over 300 miles of dedicated bike lane.
+It's sort of broken out.
+I broke them out over here.
+There's 96 miles of bike lane
+that are on the road.
+There's 50 miles of bike paths, dedicated bike paths.
+There's no cars on it at all.
+It's like it's going to a highway system.
+And then 84 miles of multi-use path.
+You often don't have to cross a road on a bike.
+There's 80 underpasses in the city that go under busy intersections.
+I'm pointing out these details for a reason
+because the way cities are managed changes behavior.
+I've lived other places.
+I ride my bike 13 miles to work every day.
+And the reason why I do it is because I never have to get on a road.
+So if you want to get cars off the road,
+you want to create a healthy community,
+it all starts with design and engineering.
+You build the infrastructure to support it.
+This is a community that's done that.
+So what do you think...
+We have an active citizenry that takes advantage of this resource.
+So what would you suspect would be a major component of our...
+Like a priority that our community would have?
+It would be bicycle safety.
+And so part of being a smart community, part of being a smart city,
+is not just the technology that you use,
+but it's also the people that work in that organization
+and their ability to understand what the priorities of their community are,
+leverage technology to help them make solid decisions
+that reference those priorities and actually get things done.
+That's what makes you a smart community.
+You can wire up as many sensors as you want.
+You can take as many data streams as you want.
+You can automate whatever processes you want.
+But unless you can make this connection between technology
+and actual work that has to be done to improve your community,
+I don't think you're getting very far.
+So they've identified this as a priority.
+And what they've done here is first use a geographic information system
+to analyze crash and accident data across the city.
+And they went through a process of collecting all the accident data.
+They break it down every way that you can imagine,
+including where there are pedestrian and cycling incidents.
+You can see them over here on the left.
+From this, they created hotspot analysis
+to understand which roadways were the most dangerous of cyclists in this case.
+They used this information to populate, if you've heard of Vision Zero,
+it's an initiative to reduce pedestrian deaths down to zero.
+It doesn't just focus on cycling.
+It focuses on all pedestrian incidents and deaths.
+But of course, there's a cycling component to the whole thing.
+So the GIS analysis went into creating
+their Vision Zero report,
+which breaks down where the pedestrian death and accident
+sort of situation in the community,
+and then helping them prioritize where they actually can make improvements.
+And so then as a citizen, I can review that report,
+but I can also go in and see where they plan capital improvement projects
+based on that data.
+So it's not just going in and saying, you know,
+you want to add bike lanes,
+but where should they improve the safety of bike lanes?
+Where is it most important?
+And they've identified nine major projects.
+There's one that's exceptionally important to me.
+So now we're getting back to why does it drive citizen engagement?
+Well, I live right over here.
+And this road on the baseline happens to be
+a common component of the bikeways that I use all the time.
+And guess what?
+It is not safe.
+It has not been safe.
+There's a bike lane, but it's not safe.
+So I have for many years wondered,
+what are we going to do to improve the safety on this road segment?
+Then there comes the GIS analysis on this road baseline
+where they do all the engineering work and design.
+What amenities exist there?
+What do we need to add?
+It's sort of a bad map of that,
+but they've done the analysis of like,
+what can we do to improve this scenario?
+All of this is available publicly to the citizens.
+So if you want to find any of this information,
+just go to the website,
+look for capital improvement projects.
+We can walk you through this.
+This is an image.
+I didn't take this.
+I didn't create this.
+This becomes a visualization into that project.
+These are the existing bike lanes.
+You can see there's no barrier.
+It looks like there's a nice distance there,
+but trust me,
+when you're riding on it,
+especially in the snow,
+that's not enough.
+This is what the road looks like.
+They then have a visualization
+where they can show you the improvements
+they're going to make.
+And what's not on this slide
+that I would want to communicate is
+the first phase of the project,
+on this bike lane,
+they put those flexible reflector things,
+and that seemed like it was great.
+About two weeks after they were installed,
+you see whole swaths of them
+knocked over by cars.
+Not a good...
+It doesn't feel the same.
+It's not a good sense of comfort.
+What's available on the website
+that you could look at would be...
+What are the future enhancements?
+The future enhancements would be solid barriers
+that they would have.
+So, of course, I'm like,
+okay, it's a possible future enhancement.
+Is that ever going to happen?
+Will it ever happen?
+Well, I took this photograph last week.
+They've added the concrete barriers
+on the side of the road.
+That's a much safer environment.
+But as a citizen, I was able to say,
+here's what my government did.
+They identified the challenge or the problem
+that was a priority for the citizens.
+They did actual analytic work using a GIS
+to understand where they could improve on that problem.
+They did the analysis.
+They created a report.
+They incorporated it into their capital improvement plan
+and their process,
+and they executed against it.
+And all of it's available for me as a citizen
+to watch and track.
+That, to me, is a smart...
+an example of a smart community.
+Now, if you ride a lot of bikes,
+and this is not a joke, but it's sort of funny,
+one of the things you get worried about is bicycle theft.
+Well, they also have a dashboard
+that tracks the amount of bicycle theft.
+I'll just tell you the thing that's interesting
+about this to me is this number.
+It just means that you don't want your bike to get stolen.
+So we have a map of the bikes,
+but we're not recovering many of them.
+That's just the fact of the day.
+But we're tracking all of this for cyclists.
+So I'll close with a couple slides.
+What I would get to and sort of a message
+or an advice I would get is
+if what I said is true,
+location is important,
+governments that use GIS and location
+as a way to help make their communities smarter
+are doing well.
+It's a valuable technology.
+If that's the case,
+then I would suggest that all governments
+should embrace geographic information systems.
+And they can embrace it across their organization,
+across the entire enterprise.
+And to do that effectively,
+you really need to have a geospatial strategy.
+There's a process that you can go through,
+and there's many different processes,
+so I won't advocate one or the other.
+But have a process to go through,
+create a geospatial strategy
+where you understand the data that you need,
+and most importantly,
+get to the end of this process
+where you understand the business solutions
+that have the greatest impact on your organization.
+That's where you want to go to.
+And then leverage the tools
+that are appropriate to you
+to actually execute that plan.
+One of the things that we've done as an organization
+is we've identified over the past 50 years
+the common work that governments use
+our technology to support.
+So if you go into an engineering department
+or a transportation department,
+there are common GIS applications
+everywhere you go.
+I saw them represented this week in Madrid
+and in Barcelona.
+It's the same type of solutions.
+We have gone through and developed
+a whole collection of over 200 ArcGIS solutions
+that align to very specific domains.
+So if you're a city or a county
+or a state agency,
+you can go onto the ArcGIS solution site,
+peruse the different types of GIS applications
+and have free access to the applications
+and the code.
+So that we open source the actual code
+so that you can actually enhance if you want to
+or extend or localize in this case
+any of these applications.
+These solutions and this gallery of solutions
+also can provide you with a roadmap
+for what your GIS implementation
+in your organization can be.
+It will lay out to you the common solutions
+in public works, in police, in emergency management.
+Whatever department it is that you're in,
+it will lay out the common
+cases for your organization.
+So you can leverage these solutions,
+buy them from a third party partner
+or something similar,
+a similar solution.
+Or if you have the resources,
+you can use our developer tools
+to create them yourself.
+But there's over 200 of these
+available on the ArcGIS solution site.
+So again, what we know,
+the way communities are designed matters.
+It's not all about technology.
+Technology is an enabler
+to help us design communities.
+That's very important.
+Number two,
+it's not getting easier to do this.
+Because it's not getting easier to do this,
+we need to be creative.
+And again, I harp on this,
+but it's not just technology,
+it's technology plus people
+to get creative and actually solve problems.
+And third,
+location is a central component
+to that process.
+Thank you very much.
+I'm around.
+We have our booth back here.
+I welcome you to come by our booth
+and talk to myself
+or any of the other heads.
